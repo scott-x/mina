@@ -1,5 +1,5 @@
 {
-  "name": "@sc/mina",
+  "name": "sc-mina",
   "version": "1.2.2",
   "description": "A cli tools",
   "bin": {

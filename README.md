@@ -1,6 +1,6 @@
 # mina
 
 ```
-npm i @sc/mina -g
+npm i sc-mina -g
 mina
 ```
