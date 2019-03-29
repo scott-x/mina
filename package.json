@@ -1,6 +1,6 @@
 {
   "name": "koa2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A cli tools",
   "bin": {
     "mina": "./bin/app.js"
