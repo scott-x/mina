@@ -1,5 +1,5 @@
 {
-  "name": "@sc-98k/mina",
+  "name": "@sc/mina",
   "version": "1.2.0",
   "description": "A cli tools",
   "bin": {
@@ -18,5 +18,5 @@
     "cli"
   ],
   "author": "Scott Xiong",
-  "license": "ISC"
+  "license": "MIT"
 }
