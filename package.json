@@ -1,0 +1,22 @@
+{
+  "name": "koa2",
+  "version": "1.0.0",
+  "description": "A cli tools",
+  "bin": {
+    "mina": "./bin/app.js"
+  },
+  "scripts": {},
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "co": "^4.6.0",
+    "commander": "^2.11.0",
+    "inquirer": "^6.2.1",
+    "slimz": "^1.1.6"
+  },
+  "keywords": [
+    "scott",
+    "cli"
+  ],
+  "author": "Scott Xiong",
+  "license": "ISC"
+}
