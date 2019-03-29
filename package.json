@@ -1,5 +1,5 @@
 {
-  "name": "koa2",
+  "name": "@sc/mina",
   "version": "1.0.3",
   "description": "A cli tools",
   "bin": {
